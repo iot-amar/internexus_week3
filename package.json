@@ -1,0 +1,21 @@
+{
+  "name": "order-tracking-api",
+  "version": "1.0.0",
+  "description": "High-Performance Order Tracking API for W3_A1 W3 Assignment",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "express",
+    "order-tracking",
+    "api",
+    "in-memory"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
